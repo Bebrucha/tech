@@ -12,7 +12,7 @@ library.add(fas, fab, far);
 <template>
   <header>
     <h3 style="margin-bottom: 30px; margin-top: 20px">
-      Binance smart gas tracker
+      Binance smart chain gas tracker
       <font-awesome-icon icon="fa-solid fa-gas-pump" />
     </h3>
   </header>

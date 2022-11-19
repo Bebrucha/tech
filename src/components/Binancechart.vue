@@ -35,7 +35,7 @@ export default {
           },
         },
         title: {
-          text: "Binance smart price movement",
+          text: "Binance smart chain price movement",
           align: "left",
         },
         xaxis: {
@@ -45,7 +45,7 @@ export default {
       },
       series: [
         {
-          name: "Binance smart",
+          name: "Binance smart chain",
           data: [1.5, 0.5, 1, 2],
         },
       ],

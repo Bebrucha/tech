@@ -11,13 +11,11 @@ library.add(fas, fab, far);
 <script>
 import Ethereum from "./components/Ethereum.vue";
 import Binance from "./components/Binance.vue";
-import Chain from "./components/Chain.vue";
 import Polygon from "./components/Polygon.vue";
 
 const routes = {
   "/": Ethereum,
   "/binance": Binance,
-  "/chain": Chain,
   "/polygon": Polygon,
 };
 
@@ -70,7 +68,7 @@ export default {
               height: 50px;
               width: 50px;
               margin-top: 20px;
-              margin-left: 17px;
+              margin-left: 20px;
             "
           />
           <br />
@@ -85,27 +83,12 @@ export default {
               height: 50px;
               width: 50px;
               margin-top: 20px;
-              margin-left: 37px;
+              margin-left: 56px;
             "
           />
           <br />
           <button class="btn btn-primary">
-            <a href="#/binance" class="text-white">Binance smart</a>
-          </button>
-        </div>
-        <div class="d-flex flex-column">
-          <img
-            src="./assets/chain.png"
-            style="
-              height: 50px;
-              width: 50px;
-              margin-top: 20px;
-              margin-left: 9px;
-            "
-          />
-          <br />
-          <button class="btn btn-primary">
-            <a href="#/chain" class="text-white">Chain</a>
+            <a href="#/binance" class="text-white">Binance smart chain</a>
           </button>
         </div>
         <div class="d-flex flex-column">
@@ -115,7 +98,7 @@ export default {
               height: 50px;
               width: 50px;
               margin-top: 20px;
-              margin-left: 14px;
+              margin-left: 15px;
             "
           />
           <br />
