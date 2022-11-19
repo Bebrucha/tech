@@ -1,35 +1,17 @@
-# tech
+# Ethereum gas front-end application
 
-This template should help get you started developing with Vue 3 in Vite.
+Implemented with Vue 3, Vite.
 
-## Recommended IDE Setup
+##IDE
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+VS-Code
 
 ## Project Setup
 
-```sh
 npm install
-```
 
-### Compile and Hot-Reload for Development
+### To see the product:
 
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+And press the hyperlink
