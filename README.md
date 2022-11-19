@@ -2,7 +2,7 @@
 
 Implemented with Vue 3, Vite.
 
-##IDE
+IDE:
 
 VS-Code
 
